@@ -1,0 +1,10 @@
+# Corpus URL List — 760 real procedural documents
+# Format: domain | url | date_collected
+#
+# Domain: Technical (200 docs) — iFixit repair guides and hardware manuals
+# Domain: Medical (200 docs) — clinical practice guidelines, public health repositories  
+# Domain: Recipes (154 docs) — open culinary instruction sets
+# Domain: Software (206 docs) — open-source project documentation and tutorials
+#
+# ADD YOUR ACTUAL URLs BELOW:
+# technical | https://www.ifixit.com/Guide/... | 2024-MM-DD
